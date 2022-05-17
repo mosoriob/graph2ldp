@@ -1,0 +1,33 @@
+ontologies:
+  - examples\opmw\opmw.owl
+  #- http://www.opmw.org/ontology/
+  #Example with a slash ontology
+name: opmw
+output_dir: outputs
+
+openapi:
+  openapi: 3.0.1
+  info:
+    description: Example of the opmw ontology
+    title: opmw
+    version: v1.0.0
+  externalDocs:
+    description: open provenance ontology for workflows
+    url: http://datos.opmw.es/def/
+
+firebase:
+  key: 
+
+#endpoint not used for this example.
+endpoint:
+  url: http://endpoint.mint.isi.edu/example
+  prefix: https://w3id.org/okn/i/example
+  graph_base: http://endpoint.mint.isi.edu/example
+
+enable_get_paths: true
+enable_post_paths: false
+enable_delete_paths: false
+enable_put_paths: false
+
+follow_references: true
+
