@@ -1,0 +1,2 @@
+<https://w3id.org/okn/i/mint/osorio_maximiliano>
+        a       <https://w3id.org/okn/o/sd#Person> , <http://www.w3.org/2002/07/owl#Thing> .

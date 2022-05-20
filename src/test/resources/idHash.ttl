@@ -1,0 +1,9 @@
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/okn/i/mint/0567f5f6-9b9b-423d-94ef-af31e1064dee>
+        a           <https://w3id.org/okn/o/sd#VariablePresentation> ;
+        rdfs:label  "MINP_INkg" ;
+        <https://w3id.org/okn/o/sd#description>
+                "Mineral phosphorus transported with water into reach" ;
+        <https://w3id.org/okn/o/sd#usesUnit>
+                <https://w3id.org/okn/i/mint/19042133-1189-4bd6-bed8-642464e865b3>

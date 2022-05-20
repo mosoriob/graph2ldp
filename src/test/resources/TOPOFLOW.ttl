@@ -1,0 +1,49 @@
+@base          <https://asdf.org> .
+<https://w3id.org/okn/i/mint/TOPOFLOW>
+        a       "https://w3id.org/okn/o/sdm#Model" , "https://w3id.org/okn/o/sdm#Theory-GuidedModel" ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TopoFlow" ;
+        <https://w3id.org/okn/o/sd#author>
+                "https://w3id.org/okn/i/mint/peckham_scott" ;
+        <https://w3id.org/okn/o/sd#citation>
+                "Peckham; S. D. \\\"Geomorphometry and spatial hydrologic modelling.\\\" Developments in Soil Science 33 (2009): 579-602." ;
+        <https://w3id.org/okn/o/sd#contributor>
+                "https://w3id.org/okn/i/mint/bolton_bob" , "https://w3id.org/okn/i/mint/liljedahl_anna" , "https://w3id.org/okn/i/mint/hinzman_larry" , "https://w3id.org/okn/i/mint/over_thomas" ;
+        <https://w3id.org/okn/o/sd#description>
+                "Topoflow is a powerful spatially-distributed hydrologic model for various physical processes in a watershed, with the goal of accurately predicting how various hydrologic variables will evolve in time in response to climatic forcings." ;
+        <https://w3id.org/okn/o/sd#hadPrimarySource>
+                "https://csdms.colorado.edu/wiki/Model:TopoFlow" ;
+        <https://w3id.org/okn/o/sd#hasContactPerson>
+                "https://w3id.org/okn/i/mint/peckham_scott" ;
+        <https://w3id.org/okn/o/sd#hasDocumentation>
+                "https://github.com/peckhams/topoflow/blob/master/docs/^^http://www.w3.org/2001/XMLSchema#anyURI" ;
+        <https://w3id.org/okn/o/sd#hasDownloadURL>
+                "https://csdms.colorado.edu/pub/models/doi-source-code/topoflow-10.1594.IEDA.100174-3.1.0.tar.gz^^http://www.w3.org/2001/XMLSchema#anyURI" ;
+        <https://w3id.org/okn/o/sd#hasFunding>
+                "https://w3id.org/okn/i/mint/TOPOFLOW_funding" ;
+        <https://w3id.org/okn/o/sd#hasInstallationInstructions>
+                "https://csdms.colorado.edu/wiki/Model:TopoFlow" ;
+        <https://w3id.org/okn/o/sd#hasSampleVisualization>
+                "https://w3id.org/okn/i/mint/topoflow_vis" ;
+        <https://w3id.org/okn/o/sd#hasSourceCode>
+                "https://w3id.org/okn/i/mint/topoflow_source" ;
+        <https://w3id.org/okn/o/sd#hasVersion>
+                "https://w3id.org/okn/i/mint/topoflow_3.6" , "https://w3id.org/okn/i/mint/49032802-8a68-4f6b-ac1b-5c0ce676e012" , "https://w3id.org/okn/i/mint/topoflow_3.5" ;
+        <https://w3id.org/okn/o/sd#keywords>
+                "snowmelt;precipitation;evapotranspiration;infiltration;channel/overland flow;shallow subsurface flow;flow diversions" ;
+        <https://w3id.org/okn/o/sd#logo>
+                "https://w3id.org/okn/i/mint/topoflow_logo" ;
+        <https://w3id.org/okn/o/sd#operatingSystems>
+                "Windows;Unix" ;
+        <https://w3id.org/okn/o/sd#publisher>
+                "https://w3id.org/okn/i/mint/colorado_university" ;
+        <https://w3id.org/okn/o/sd#referencePublication>
+                "Peckham; S. D. \\\"Geomorphometry and spatial hydrologic modelling.\\\" Developments in Soil Science 33 (2009): 579-602." ;
+        <https://w3id.org/okn/o/sd#softwareRequirements>
+                "IDL 6.0 or 6.3" ;
+        <https://w3id.org/okn/o/sd#usefulForCalculatingIndex>
+                "https://w3id.org/okn/i/mint/river_discharge" ;
+        <https://w3id.org/okn/o/sd#website>
+                "https://csdms.colorado.edu/wiki/Model:TopoFlow^^http://www.w3.org/2001/XMLSchema#anyURI" ;
+        <https://w3id.org/okn/o/sdm#hasModelCategory>
+                "https://w3id.org/okn/i/mint/Hydrology" .

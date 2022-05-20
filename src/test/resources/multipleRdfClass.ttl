@@ -1,0 +1,5 @@
+
+<https://w3id.org/okn/i/mint/DatasetSpecification/cycles-0.9.4-alpha-advanced-texas-weather_soilProfile>
+        a       <https://w3id.org/wings/export/MINT#Class/CyclesAnnualSoilProfile> , <https://w3id.org/okn/o/sd#Class/DatasetSpecification> ;
+        <https://w3id.org/okn/o/sd#hasPresentation>
+                <https://w3id.org/okn/i/mint/VariablePresentation/cycles_root_c_decomp> , <https://w3id.org/okn/i/mint/VariablePresentation/cycles_year> , <https://w3id.org/okn/i/mint/VariablePresentation/cycles_init_c_mass> , <https://w3id.org/okn/i/mint/VariablePresentation/cycles_humified_c2> , <https://w3id.org/okn/i/mint/VariablePresentation/cycles_respired_c> , <https://w3id.org/okn/i/mint/VariablePresentation/cycles_root_biomass_in> , <https://w3id.org/okn/i/mint/VariablePresentation/cycles_res_c_decomp> , <https://w3id.org/okn/i/mint/VariablePresentation/cycles_c_diff> , <https://w3id.org/okn/i/mint/VariablePresentation/cycles_res_biomass_in> , <https://w3id.org/okn/i/mint/VariablePresentation/cycles_final_c> .
